@@ -4,11 +4,11 @@
 	id		= "com.citylifeapps.pizu"
 	version 	= "1.0.0">
 
-    <name>Pizu</name>
+    	<name>Pizu</name>
 
 	<description>
         The awesomest thing ever
-    </description>
+    	</description>
 
 	<author href="http://alunny.github.com"
 		email="andrew.lunny@nitobi.com">
