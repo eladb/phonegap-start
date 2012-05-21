@@ -5,6 +5,8 @@
 	version 	= "1.0.0">
 
     	<name>Pizu</name>
+    	
+    	<content src="http://pizu.hackingonstuff.net"/>
 
 	<description>
         The awesomest thing ever
